@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "60749570251",
+    "project_id": "qubit-175de",
+    "storage_bucket": "qubit-175de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60749570251:android:2c4b50bfaabf282f8f7b4e",
+        "android_client_info": {
+          "package_name": "com.example.qubit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60749570251-9hem03mt9iqmbdkh8r0inqlj7k10s3ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeYPX8Nhgk0wGqxRSMT1xwqeJVt_BrTnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60749570251-9hem03mt9iqmbdkh8r0inqlj7k10s3ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
